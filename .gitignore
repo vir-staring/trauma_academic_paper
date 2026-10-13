@@ -1,0 +1,6 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.statistic_ana_bak/
+data_generate/psm_trauma_results/
